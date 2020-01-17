@@ -1,0 +1,8 @@
+numpy
+math
+SoundFile
+sys
+Kivy
+scipy
+os
+subprocess
