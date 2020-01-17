@@ -4,7 +4,7 @@
 This repository contains the functions created in *High Performance Tools to Generate and Visualize Sound Time-Lapse* 
 
 
-### Lenguage
+### Language
 This algorithm was created in Python 3.7.4.
 
 #### Install packages
