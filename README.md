@@ -1,7 +1,7 @@
 # SoundlapseUACh 
 
 ## Sound Time Lapse
-This repository contains the functions created in *High Performance Tools to Generate and Visualize Sound Time-Lapse* 
+This repository contains the functions created in *High Performance Tools to Generate and Visualize Sonic Time-Lapse* 
 
 
 ### Language
