@@ -6,3 +6,4 @@ Kivy
 scipy
 os
 subprocess
+pandas
