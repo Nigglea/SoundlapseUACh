@@ -1,6 +1,7 @@
 numpy
 SoundFile
 Kivy
+Kivy-garden
 scipy
 pandas
 notebook
