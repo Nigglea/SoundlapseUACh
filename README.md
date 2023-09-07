@@ -17,6 +17,17 @@ or
 ```bash
 pip3 install -r requirements.txt  
 ```
+Then,
+
+```bash
+python -m ipykernel install --user --name=soundlapse
+```
+
+And finally,
+
+```bash
+garden install filebrowser
+```
 
 ### Authors
 <p style="text-align:center">Diego Espejo <br>
