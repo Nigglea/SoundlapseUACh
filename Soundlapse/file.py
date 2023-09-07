@@ -54,7 +54,7 @@ class FileBrowserApp(App):
 
 
 def browser():
-    os.system('python3 Soundlapse/filebrowser.py')
+    os.system('python Soundlapse/filebrowser.py')
 
 def filepath(route='filepath.csv'):
     df = pd.read_csv(route)
